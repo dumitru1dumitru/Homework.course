@@ -1,0 +1,242 @@
+
+# Aceasta este prima ta sarcină legată de variabile în python
+# Creează o variabilă numită `age` și seteaz-o la vârsta ta
+
+# CODUL TĂU VINE MAI JOS:
+
+age = 18 
+
+# CODUL TĂU VINE MAI SUS:
+
+# Acum afișează valoarea variabilei `age` folosind funcția `print`
+
+# CODUL TĂU VINE MAI JOS:
+
+print(age)
+
+# CODUL TĂU VINE MAI SUS:
+
+# Acum schimbă valoarea variabilei `age` la vârsta prietenului tău și afișează valoarea variabilei `age` folosind funcția `print`
+
+# CODUL TĂU VINE MAI JOS:
+age = 20
+print(age)
+
+# CODUL TĂU VINE MAI SUS:
+
+# Acum creează o nouă variabilă numită `age2` și seteaz-o la valoarea variabilei `age` și afișează valoarea variabilei `age2` folosind funcția `print`
+
+# CODUL TĂU VINE MAI JOS:
+
+age2 = age 
+print(age2)
+
+# CODUL TĂU VINE MAI SUS:
+
+# Acum șterge variabila `age` și încearcă să afișezi valoarea variabilei `age` folosind funcția `print`
+
+# CODUL TĂU VINE MAI JOS:
+
+print('age = 20')
+
+# CODUL TĂU VINE MAI SUS:
+
+# Asta a fost tot pentru această sarcină
+
+
+
+# Aceasta este a doua sarcină legată de booleeni în python
+# Creați o variabilă numită `is_student` și setați-o la `True`
+
+# CODUL TĂU VINE MAI JOS:
+is_student = True
+# CODUL TĂU VINE MAI SUS:
+
+# Acum tipăriți valoarea variabilei `is_student` folosind funcția `print`
+
+# CODUL TĂU VINE MAI JOS:
+print(is_student)
+# CODUL TĂU VINE MAI SUS:
+
+# Acum creați o nouă variabilă numită `is_child` și setați-o la `False` și tipăriți valoarea variabilei `is_child` folosind funcția `print`
+
+# CODUL TĂU VINE MAI JOS:
+is_child = False
+print(is_child)
+# CODUL TĂU VINE MAI SUS:
+
+# Acum utilizați operatorul `and` pentru a verifica dacă atât `is_student`, cât și `is_child` sunt `True` și tipăriți rezultatul folosind funcția `print`
+
+# CODUL TĂU VINE MAI JOS:
+is_all = is_student and is_child 
+print (is_all)
+# CODUL TĂU VINE MAI SUS:
+
+# Acum utilizați operatorul `or` pentru a verifica dacă cel puțin una dintre `is_student` și `is_child` este `True` și tipăriți rezultatul folosind funcția `print`
+
+# CODUL TĂU VINE MAI JOS:
+is_all2 = is_student or is_child 
+print (is_all2)
+# CODUL TĂU VINE MAI SUS:
+
+# Acum utilizați operatorul `not` pentru a verifica dacă `is_student` este `False` și tipăriți rezultatul folosind funcția `print`
+
+# CODUL TĂU VINE MAI JOS:
+is_all3 =  not is_student  
+print (is_all3)
+# CODUL TĂU VINE MAI SUS:
+
+# Aceasta a fost tot pentru această sarcină
+
+
+# Aceasta este a treia ta sarcină legată de numere în python
+# Creează o variabilă numită `number` și atribuie-i valoarea `10`
+
+# CODUL TĂU VINE MAI JOS:
+number = 10 
+# CODUL TĂU VINE MAI SUS:
+
+# Acum afișează valoarea variabilei `number` folosind funcția `print`
+
+# CODUL TĂU VINE MAI JOS:
+print(number)
+# CODUL TĂU VINE MAI SUS:
+
+# Acum creează o nouă variabilă numită `number2` și atribuie-i valoarea `number` și afișează valoarea variabilei `number2` folosind funcția `print`
+
+# CODUL TĂU VINE MAI JOS:
+number2 = number 
+print(number2)
+# CODUL TĂU VINE MAI SUS:
+
+# Acum creează o nouă variabilă numită `number3` și atribuie-i valoarea `4`
+
+# CODUL TĂU VINE MAI JOS:
+number3 = 4 
+# CODUL TĂU VINE MAI SUS:
+
+# Acum aplică toate operațiile pe care le-ai învățat în lecție asupra variabilelor `number` și `number3` și afișează rezultatele folosind funcția `print`
+# Operațiile sunt: adunare, scădere, înmulțire, împărțire, modulo, exponențiere, împărțire întreagă
+
+# CODUL TĂU VINE MAI JOS:
+print(number + number3)
+print(number - number3)
+print(number / number3)
+print(number % number3)
+print(number ** number3)
+print(number // number3)
+# CODUL TĂU VINE MAI SUS:
+
+# Creează o nouă variabilă numită `number4` și atribuie-i o valoare numerică mare într-un mod literal
+
+# CODUL TĂU VINE MAI JOS:
+number4 = 1069420
+# CODUL TĂU VINE MAI SUS:
+
+# Acum afișează tipul variabilei `number4` folosind funcția `print`
+
+# CODUL TĂU VINE MAI JOS:
+print(type(number4))
+# CODUL TĂU VINE MAI SUS:
+
+# Creați o variabilă `numar` și atribuiții valoarea 5.0
+
+# CODUL TĂU VINE MAI JOS:
+numar = 5.0
+# CODUL TĂU VINE MAI SUS:
+
+# Acum afișați tipul lui `numar` folosind funcția `print`
+
+# CODUL TĂU VINE MAI JOS:
+print(type(numar))
+# CODUL TĂU VINE MAI SUS:
+
+# Acum creați o variabilă `numar2` și atribuiții valoarea 2.0
+
+# CODUL TĂU VINE MAI JOS:
+numar = 2.0
+# CODUL TĂU VINE MAI SUS:
+
+# Acum creați o variabila `numar_mare` și atribuiți-i o valoare mare utilizând numerele literale
+
+# CODUL TĂU VINE MAI JOS:
+numar_mare = 4354654657
+# CODUL TĂU VINE MAI SUS:
+
+# Acum afișați tipul lui `numar_mare` folosind funcția `print`
+
+# CODUL TĂU VINE MAI JOS:
+print(type(numar_mare))
+# CODUL TĂU VINE MAI SUS:
+
+# Acum ștergeți variabila `numar_mare` folosind instrucțiunea `del`
+
+# CODUL TĂU VINE MAI JOS:
+del numar_mare
+# CODUL TĂU VINE MAI SUS:
+
+# Asta a fost tot pentru această sarcină
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# number = 3.0 #
+
+#number3 = 2.0 
+
+
+
+
+
+#print("rezulatatul adunarii:" +str(number + number3))
+#print(number - number3)
+#print(number / number3)
+#print(number % number3)
+#print(number ** number3)
+#print(number // number3)
+###
+
+int_number = 10
+float_number = float(int_number)
+print(float_number)
+
+int_number = 10
+str_number = str(int_number)
+print(float_number)
+
+str_number = 10.5
+float_number = float(str_number)
+print(float_number)   
+
+string1 ='hello,world'
+print(string1[-6:])
+
+print ('world' not  in string1)
+print(len(string1))
+
+
+print(string1.replace('world','underworld'))
+print(string1.split())
+
+
+
+name = input('introdu numele:')
+print(type(name))
+
+number = int(name)
+print(type(number))
+
